@@ -27,15 +27,6 @@ This project is a basic implementation of a start/stop watch using pure HTML, CS
 
 ---
 
-## 🎨 Screenshot
-
-Here’s a screenshot of how the stopwatch looks:
-
-![Stopwatch Screenshot](path-to-your-screenshot.png)  
-*(Replace `path-to-your-screenshot.png` with the actual screenshot URL)*
-
----
-
 ## 🔧 How to Run the Project
 
 1. Clone the repository to your local machine:
