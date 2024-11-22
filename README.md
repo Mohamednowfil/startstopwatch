@@ -32,4 +32,5 @@ This project is a basic implementation of a start/stop watch using pure HTML, CS
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/start-stopwatch.git
+   git clone https://github.com/Mohamednowfil/startstopwatch.git
+
